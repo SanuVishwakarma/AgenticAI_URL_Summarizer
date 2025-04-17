@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-community
+transformers
+sentence-transformers
+chromadb
+beautifulsoup4
+requests
+streamlit
+torch
+fpdf

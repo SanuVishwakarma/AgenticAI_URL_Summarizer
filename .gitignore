@@ -1,0 +1,6 @@
+__pychache__
+__pycache__/
+zocketvenv
+zocketvenv/
+venv/
+chromadb/
