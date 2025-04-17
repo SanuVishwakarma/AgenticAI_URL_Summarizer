@@ -3,4 +3,4 @@ __pycache__/
 zocketvenv
 zocketvenv/
 venv/
-chromadb/
+chroma_db/
